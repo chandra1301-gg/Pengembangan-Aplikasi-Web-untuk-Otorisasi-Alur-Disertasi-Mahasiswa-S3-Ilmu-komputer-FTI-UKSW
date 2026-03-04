@@ -1,0 +1,11 @@
+{
+    "name": "uksw/disertasi-s3",
+    "description": "Sistem Disertasi S3 UKSW dengan Email Notification",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
